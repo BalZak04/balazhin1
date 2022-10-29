@@ -1,7 +1,7 @@
 from telegram.ext import MessageHandler, Filters, Updater
 from telegram.ext import CommandHandler
 
-from wikipedia import search_wiki
+from wiki import search_wiki
 
 
 token = '5622593689:AAHvAPVYmpXVv3LOic-FWuQs33Te-mFiMG4'
