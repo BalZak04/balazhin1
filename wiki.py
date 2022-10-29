@@ -12,3 +12,4 @@ def search_wiki(word):
     except:
         return "Википедия не доступна. Повторите позже.", ""
 
+
