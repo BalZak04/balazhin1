@@ -4,7 +4,7 @@ from telegram.ext import CommandHandler
 from wiki import search_wiki
 
 
-token = '5622593689:AAHvAPVYmpXVv3LOic-FWuQs33Te-mFiMG4'
+token = 'token'
 
 
 def echo(update, conext):
